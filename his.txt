@@ -1,0 +1,232 @@
+    1  ls
+    2  cd Desktop/
+    3  ls
+    4  ls -la
+    5  pip
+    6  pip --version
+    7  path
+    8  --path
+    9  echo lol
+   10  cd..
+   11  ld
+   12  cd ..
+   13  ls
+   14  pip
+   15  exit
+   16  cd Desktop/
+   17  ls
+   18  cd Open_source/
+   19  cd Open_Source_dev/
+   20  ls
+   21  cd portfolio/
+   22  ls
+   23  ls
+   24  git branch
+   25  ls -la
+   26  git branch test_01
+   27  git branch
+   28  git checkout test_01 
+   29  git branch
+   30  ls
+   31  code README.md 
+   32  cd Desktop/
+   33  ls
+   34  cd Open_source/
+   35  cd ls
+   36  ls
+   37  cd Open_Source_dev/
+   38  ls
+   39  cd portfolio/
+   40  ls
+   41  git branch
+   42  git status
+   43  git push origin test_01 
+   44  git remote add origin remote https://github.com/Devesh1111/portfolio
+   45  git remote add origin https://github.com/Devesh1111/portfolio
+   46  git remote -v
+   47  git push orgin test_01 
+   48  git push origin test_01 
+   49  cd..
+   50  cd..
+   51  ls
+   52  cd ..
+   53  ls
+   54  cd ..
+   55  ls
+   56  cd Desktop/
+   57  cd Open_source/
+   58  cd Open_Source_dev/
+   59  cd portfolio/
+   60  git status
+   61  git push origin test_01 
+   62  ls
+   63  cd Desktop/Open_source/Open_Source_dev/
+   64  ls
+   65  cd portfolio/
+   66  git status
+   67  git push origin test_01 
+   68  git status
+   69  git branch
+   70  cls
+   71  clear
+   72  ls
+   73  cd ..
+   74  ls
+   75  mkdir Task_01
+   76  ls
+   77  cd Task_01/
+   78  touch test.txt
+   79  ls
+   80  test.txt
+   81  test.txt
+   82  open test.txt 
+   83  chdir
+   84  ls
+   85  cd ..
+   86  ls
+   87  cd ..
+   88  ls
+   89  rm check.txt 
+   90  ls
+   91  touch check.txt
+   92  ls
+   93  git mv check.txt  Open_Source_dev/Task_01/task_01.txt
+   94  nb check.txt  Open_Source_dev/Task_01/task_01.txt
+   95  move check.txt  Open_Source_dev/Task_01/task_01.txt
+   96  help
+   97  ls
+   98  cls
+   99  clear
+  100  cd Desktop/
+  101  cd Open_source/Open_Source_dev/
+  102  ls
+  103  cd portfolio/
+  104  LS
+  105  cd..
+  106  cd ..
+  107  ls
+  108  cd Task_01/
+  109  ls
+  110  git bRANCH
+  111  git branch
+  112  git checkout -b test_01
+  113  git branch
+  114  git branch -d test_01
+  115  git checkout master
+  116  git brnach -d test_01
+  117  git branch -d test_01
+  118  git brnach
+  119  git branch
+  120  git checkout -b test_02
+  121  git help
+  122  git commands
+  123  git show
+  124  OB
+  125  git
+  126  git log
+  127  cd..
+  128  cd ..
+  129  ls
+  130  asas
+  131  cd Desktop/Open_source/Open_Source_dev/
+  132  ls
+  133  cd Task_01/
+  134  ls
+  135  git log
+  136  git branch
+  137  touch testfile.c
+  138  ls
+  139  git status
+  140  git status
+  141  git add testfile.c 
+  142  git status
+  143  git rm testfile.c 
+  144  git rm -f testfile.c 
+  145  git status
+  146  ls
+  147  cls
+  148  clear
+  149  echo filename.c
+  150  touch filename.py
+  151  edit filename.py 
+  152  git add filename.py 
+  153  git commit -m "Intial commit"
+  154  git status
+  155  git status
+  156  git diff
+  157  git commit -m"Updated the initail commit"
+  158  git add filename.py 
+  159  git commit -m"Updated the initail commit"
+  160  git status
+  161  git show
+  162  git fetch origin master
+  163  git status
+  164  git fetch origin master
+  165  git diff
+  166  git rebase origin master
+  167  git rebase origin/master
+  168  git pull
+  169  git branch --set -upstream-to=origin/test_02
+  170  clear
+  171  git status
+  172  git status
+  173  git stash
+  174  git pull
+  175   git branch --set-upstream-to=origin/<branch> test_02
+  176   git branch --set-upstream-to=origin/ test_02
+  177  git stash apply
+  178  git stash
+  179  git push origin master
+  180  ls
+  181  git branch
+  182  git push origin test_02 
+  183  git stash
+  184  git stash apply
+  185  git diff
+  186  git add filename.py 
+  187  git commit -m"second commit"
+  188  git push origin test_02 
+  189  git pull
+  190  git b branch --set-upstream-to=test_02
+  191  git bbranch --set-upstream-to=test_02
+  192  git bbranch --set-upstream-to=test_02
+  193  git branch --set-upstream-to=test_02
+  194  git help reset
+  195  cd ..
+  196  ls
+  197  mkdir test_03
+  198  cd test_03/
+  199  ls
+  200  git status
+  201  git init
+  202  git status
+  203  git ls -la
+  204  ls 
+  205  ls -a
+  206  ls -la
+  207  git branch
+  208  git remote add origin https://github.com/Devesh1111/Covid-19
+  209  git remote -v
+  210  git remote add upstream https://github.com/Devesh1111/Covid-19
+  211  git remote -v
+  212  git status
+  213  ls
+  214  touch lol.py
+  215  git status
+  216  git add .
+  217  git commit -m"Intital commit"
+  218  git push origin master
+  219  git pull origin master
+  220  ls
+  221  git pull origin master
+  222  git push origin master
+  223  l
+  224  ls
+  225  git fetch origin
+  226  git push origin master
+  227  git fetch origin
+  228  git rebase origin/master
+  229  git push origin master
+  230  history
+  231  history to his.txt
+  232  history > his.txt
